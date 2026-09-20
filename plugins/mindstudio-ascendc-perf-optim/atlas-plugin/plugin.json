@@ -1,0 +1,8 @@
+{
+  "name": "mindstudio-ascendc-perf-optim",
+  "version": "0.1.0",
+  "description": "MindStudio Ascend C 算子性能优化 skill 的 Atlas 策展封装：基于 Profiling 数据的端到端性能优化（API 调优/数据搬运/流水线/Tiling 参考）。触发：对 Ascend C 算子做数据驱动的性能优化。",
+  "author": {
+    "name": "vincentlau2046"
+  }
+}

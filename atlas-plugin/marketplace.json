@@ -102,6 +102,30 @@
       "source": "./plugins/community-triton-op",
       "version": "0.1.0",
       "description": "社区 Triton 算子开发全流程 skill 包（11 技能）的 Atlas 策展封装：设计→codegen→开发→code review→文档→环境配置→精度评估→性能评估/优化→内存检测。触发：社区 Triton-Ascend 算子开发。"
+    },
+    {
+      "name": "cannbot-infra-skills",
+      "source": "./plugins/cannbot-infra-skills",
+      "version": "0.1.0",
+      "description": "官方 CANNBot 基础设施 skill 包（5 技能）的 Atlas 策展封装：Skill 审查/GitCode Issue 生成与处理/PR 处理/GitCode 工具集 + 故障采集/错误分类/性能分析路由。触发：NPU 问题定位、故障采集与分诊、CANNBot 工程问题处理。"
+    },
+    {
+      "name": "common-infra-skills",
+      "source": "./plugins/common-infra-skills",
+      "version": "0.1.0",
+      "description": "昇腾 NPU 通用基础设施 skill 包（6 技能）的 Atlas 策展封装：Docker 容器创建/驱动固件安装/CANN 全套组件安装/算子环境配置/SwanLab 追踪/npu-smi 设备管理。触发：昇腾 NPU 开发环境搭建与运维、设备状态检查。"
+    },
+    {
+      "name": "mindstudio-ascendc-perf-optim",
+      "source": "./plugins/mindstudio-ascendc-perf-optim",
+      "version": "0.1.0",
+      "description": "MindStudio Ascend C 算子性能优化 skill 的 Atlas 策展封装：基于 Profiling 数据的端到端性能优化（API 调优/数据搬运/流水线/Tiling 参考）。触发：对 Ascend C 算子做数据驱动的性能优化。"
+    },
+    {
+      "name": "cannbot-model-infer",
+      "source": "./plugins/cannbot-model-infer",
+      "version": "0.1.0",
+      "description": "官方 CANNBot NPU 模型推理优化 skill 包（11 技能）的 Atlas 策展封装：框架适配/并行策略/KVCache+FA/融合算子/图模式/精度运行时调试/多流/预取/SuperKernel。触发：LLM/大模型在 NPU 上的推理性能优化。"
     }
   ]
 }

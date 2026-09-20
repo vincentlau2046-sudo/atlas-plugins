@@ -1,0 +1,8 @@
+{
+  "name": "cannbot-infra-skills",
+  "version": "0.1.0",
+  "description": "官方 CANNBot 基础设施 skill 包（5 技能）的 Atlas 策展封装：Skill 审查/GitCode Issue 生成与处理/PR 处理/GitCode 工具集 + 故障采集/错误分类/性能分析路由。触发：NPU 问题定位、故障采集与分诊、CANNBot 工程问题处理。",
+  "author": {
+    "name": "vincentlau2046"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "cannbot-model-infer",
+  "version": "0.1.0",
+  "description": "官方 CANNBot NPU 模型推理优化 skill 包（11 技能）的 Atlas 策展封装：框架适配/并行策略/KVCache+FA/融合算子/图模式/精度运行时调试/多流/预取/SuperKernel。触发：LLM/大模型在 NPU 上的推理性能优化。",
+  "author": {
+    "name": "vincentlau2046"
+  }
+}
