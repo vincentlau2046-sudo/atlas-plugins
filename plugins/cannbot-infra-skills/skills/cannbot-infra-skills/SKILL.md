@@ -1,7 +1,7 @@
 ---
 name: cannbot-infra-skills
-description: 官方 CANNBot 基础设施 skill 包（5 技能）的 Atlas 策展封装：Skill 审查/GitCode Issue 生成与处理/PR 处理/GitCode 工具集 + 故障采集/错误分类/性能分析路由。触发：NPU 问题定位、故障采集与分诊、CANNBot 工程问题处理。
-when_to_use: Use for NPU fault triage + CANNBot infra workflow: fault collection, error classification, profiling analysis, and GitCode issue/PR handling. Curation over the official CANNBot infra pack.
+description: "官方 CANNBot 基础设施 skill 包（5 技能）的 Atlas 策展封装：Skill 审查/GitCode Issue 生成与处理/PR 处理/GitCode 工具集 + 故障采集/错误分类/性能分析路由。触发：NPU 问题定位、故障采集与分诊、CANNBot 工程问题处理。"
+when_to_use: "Use for NPU fault triage + CANNBot infra workflow: fault collection, error classification, profiling analysis, and GitCode issue/PR handling. Curation over the official CANNBot infra pack."
 allowed-tools: AscendFaultCollector, AscendErrorClassifier, AscendProfileAnalyzer
 ---
 

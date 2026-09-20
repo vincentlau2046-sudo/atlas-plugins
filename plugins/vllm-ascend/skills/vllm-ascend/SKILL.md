@@ -1,7 +1,7 @@
 ---
 name: vllm-ascend
-description: vLLM-Ascend 推理部署与测试 skill 包（3 技能）的 Atlas 策展封装：vLLM Ascend 服务部署/FAQ 生成/测试失败分析。触发：vLLM 在昇腾 NPU 上的部署与问题排查。
-when_to_use: Use for deploying + troubleshooting vLLM on Ascend NPU: service deploy, FAQ generation, test-failure analysis. Curation over the official vllm-ascend pack.
+description: "vLLM-Ascend 推理部署与测试 skill 包（3 技能）的 Atlas 策展封装：vLLM Ascend 服务部署/FAQ 生成/测试失败分析。触发：vLLM 在昇腾 NPU 上的部署与问题排查。"
+when_to_use: "Use for deploying + troubleshooting vLLM on Ascend NPU: service deploy, FAQ generation, test-failure analysis. Curation over the official vllm-ascend pack."
 allowed-tools: AscendInferValidator, AscendModelConverter, AscendRealHWBridge
 ---
 

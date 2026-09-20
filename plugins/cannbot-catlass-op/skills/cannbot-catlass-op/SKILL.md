@@ -1,7 +1,7 @@
 ---
 name: cannbot-catlass-op
-description: 官方 CANNBot Catlass 算子 skill 包（3 技能）的 Atlas 策展封装：Catlass 算子设计/开发/性能调优。触发：用 Catlass 模板做 GEMM/卷积类算子开发或性能调优。
-when_to_use: Use when developing or performance-tuning a Catlass template operator (GEMM/conv-class) — design, develop, perf-tune. Curation over the official CANNBot Catlass pack.
+description: "官方 CANNBot Catlass 算子 skill 包（3 技能）的 Atlas 策展封装：Catlass 算子设计/开发/性能调优。触发：用 Catlass 模板做 GEMM/卷积类算子开发或性能调优。"
+when_to_use: "Use when developing or performance-tuning a Catlass template operator (GEMM/conv-class) — design, develop, perf-tune. Curation over the official CANNBot Catlass pack."
 allowed-tools: AscendCodeGen, AscendCompilerBridge, AscendGoldenTest, AscendBenchmarkRunner
 ---
 

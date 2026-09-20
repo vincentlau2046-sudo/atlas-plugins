@@ -1,7 +1,7 @@
 ---
 name: cannbot-model-infer
-description: 官方 CANNBot NPU 模型推理优化 skill 包（11 技能）的 Atlas 策展封装：框架适配/并行策略/KVCache+FA/融合算子/图模式/精度运行时调试/多流/预取/SuperKernel。触发：LLM/大模型在 NPU 上的推理性能优化。
-when_to_use: Use for NPU model-inference optimization: framework adaptation, parallel strategy, KVCache/flash-attn, fusion, graph mode, multi-stream, prefetch, SuperKernel. Curation over the official CANNBot model-infer pack.
+description: "官方 CANNBot NPU 模型推理优化 skill 包（11 技能）的 Atlas 策展封装：框架适配/并行策略/KVCache+FA/融合算子/图模式/精度运行时调试/多流/预取/SuperKernel。触发：LLM/大模型在 NPU 上的推理性能优化。"
+when_to_use: "Use for NPU model-inference optimization: framework adaptation, parallel strategy, KVCache/flash-attn, fusion, graph mode, multi-stream, prefetch, SuperKernel. Curation over the official CANNBot model-infer pack."
 allowed-tools: AscendBenchmarkRunner, AscendProfileReportParser, AscendDiagnoser
 ---
 

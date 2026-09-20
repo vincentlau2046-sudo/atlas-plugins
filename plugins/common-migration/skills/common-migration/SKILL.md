@@ -1,7 +1,7 @@
 ---
 name: common-migration
-description: 昇腾 NPU 通用模型迁移 skill 包（5 技能）的 Atlas 策展封装：推理仓库智能问答/ATC 模型转换全流程/msverl 回归分诊/NPU 适配审查/PyTorch 模型 NPU 迁移。触发：模型迁移到 NPU、GPU→NPU 适配。
-when_to_use: Use for generic model migration to NPU: inference-repo Q&A, ATC conversion, msverl regression triage, NPU-adapter review, PyTorch→NPU migration. Curation over the official Common migration pack.
+description: "昇腾 NPU 通用模型迁移 skill 包（5 技能）的 Atlas 策展封装：推理仓库智能问答/ATC 模型转换全流程/msverl 回归分诊/NPU 适配审查/PyTorch 模型 NPU 迁移。触发：模型迁移到 NPU、GPU→NPU 适配。"
+when_to_use: "Use for generic model migration to NPU: inference-repo Q&A, ATC conversion, msverl regression triage, NPU-adapter review, PyTorch→NPU migration. Curation over the official Common migration pack."
 allowed-tools: AscendModelConverter, AscendInferValidator
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: community-catlass-op
-description: 社区 Catlass 算子开发全流程 skill 包（4 技能）的 Atlas 策展封装：设计→codegen→开发→性能优化。触发：社区 Catlass 模板算子开发。
-when_to_use: Use for the community Catlass template operator flow: design → codegen → dev → performance optimization. Curation over the community/Op Catlass pack.
+description: "社区 Catlass 算子开发全流程 skill 包（4 技能）的 Atlas 策展封装：设计→codegen→开发→性能优化。触发：社区 Catlass 模板算子开发。"
+when_to_use: "Use for the community Catlass template operator flow: design → codegen → dev → performance optimization. Curation over the community/Op Catlass pack."
 allowed-tools: AscendCodeGen, AscendCompilerBridge, AscendGoldenTest, AscendBenchmarkRunner
 ---
 

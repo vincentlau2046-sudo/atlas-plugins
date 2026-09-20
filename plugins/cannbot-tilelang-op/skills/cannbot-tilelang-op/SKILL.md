@@ -1,7 +1,7 @@
 ---
 name: cannbot-tilelang-op
-description: 官方 CANNBot TileLang 算子 skill 包（9 技能）的 Atlas 策展封装：环境检查/子模块拉取/算子设计/开发/测试设计/API 最佳实践/编程模式指南/性能优化/代码审查。触发：TileLang 算子端到端开发。
-when_to_use: Use when developing a TileLang operator end-to-end — env check, submodule pull, design/dev, test design, API best practices, programming-model guide, perf-opt, review. Curation over the official CANNBot TileLang pack.
+description: "官方 CANNBot TileLang 算子 skill 包（9 技能）的 Atlas 策展封装：环境检查/子模块拉取/算子设计/开发/测试设计/API 最佳实践/编程模式指南/性能优化/代码审查。触发：TileLang 算子端到端开发。"
+when_to_use: "Use when developing a TileLang operator end-to-end — env check, submodule pull, design/dev, test design, API best practices, programming-model guide, perf-opt, review. Curation over the official CANNBot TileLang pack."
 allowed-tools: AscendCodeGen, AscendCompilerBridge, AscendGoldenTest
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: common-infra-skills
-description: 昇腾 NPU 通用基础设施 skill 包（6 技能）的 Atlas 策展封装：Docker 容器创建/驱动固件安装/CANN 全套组件安装/算子环境配置/SwanLab 追踪/npu-smi 设备管理。触发：昇腾 NPU 开发环境搭建与运维、设备状态检查。
-when_to_use: Use for Ascend NPU environment setup + ops: Docker, driver/firmware install, CANN install, operator-env config, SwanLab tracking, npu-smi device management. Curation over the official Common infra pack.
+description: "昇腾 NPU 通用基础设施 skill 包（6 技能）的 Atlas 策展封装：Docker 容器创建/驱动固件安装/CANN 全套组件安装/算子环境配置/SwanLab 追踪/npu-smi 设备管理。触发：昇腾 NPU 开发环境搭建与运维、设备状态检查。"
+when_to_use: "Use for Ascend NPU environment setup + ops: Docker, driver/firmware install, CANN install, operator-env config, SwanLab tracking, npu-smi device management. Curation over the official Common infra pack."
 allowed-tools: AscendRealHWBridge
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: common-deploy
-description: 昇腾 NPU 通用部署 skill 包（3 技能）的 Atlas 策展封装：OM 部署器/OM Pipeline 适配器/ONNX-ATC 推理 Pipeline。触发：模型部署、推理服务构建。
-when_to_use: Use for generic Ascend model deployment: OM deployer, OM pipeline adapter, ONNX→ATC inference pipeline. Curation over the official Common deploy pack.
+description: "昇腾 NPU 通用部署 skill 包（3 技能）的 Atlas 策展封装：OM 部署器/OM Pipeline 适配器/ONNX-ATC 推理 Pipeline。触发：模型部署、推理服务构建。"
+when_to_use: "Use for generic Ascend model deployment: OM deployer, OM pipeline adapter, ONNX→ATC inference pipeline. Curation over the official Common deploy pack."
 allowed-tools: AscendModelConverter, AscendOnnxOptimizer, AscendInferValidator, AscendDataPrepTool
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: community-ascendc-op
-description: 社区 Ascend C 算子开发全流程 skill 包（17 技能）的 Atlas 策展封装：项目初始化→设计→codegen→开发→编译调试→code review→精度调试/评估→性能评估/优化→测试用例→文档。触发：社区 Ascend C 算子端到端开发。
-when_to_use: Use for the full community Ascend C operator lifecycle: init → design → codegen → dev → compile-debug → review → precision → performance → testcase → docs. Curation over the community/Op Ascend C pack.
+description: "社区 Ascend C 算子开发全流程 skill 包（17 技能）的 Atlas 策展封装：项目初始化→设计→codegen→开发→编译调试→code review→精度调试/评估→性能评估/优化→测试用例→文档。触发：社区 Ascend C 算子端到端开发。"
+when_to_use: "Use for the full community Ascend C operator lifecycle: init → design → codegen → dev → compile-debug → review → precision → performance → testcase → docs. Curation over the community/Op Ascend C pack."
 allowed-tools: AscendSpecParser, AscendTilingPlanner, AscendCodeGen, AscendCompilerBridge, AscendGoldenTest, AscendBenchmarkRunner, AscendProfileReportParser
 ---
 

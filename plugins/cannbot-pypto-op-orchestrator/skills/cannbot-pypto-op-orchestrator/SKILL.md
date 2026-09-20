@@ -1,7 +1,7 @@
 ---
 name: cannbot-pypto-op-orchestrator
-description: 官方 CANNBot PyPTO 算子 skill 包（8 技能）的 Atlas 策展封装：API 探索/Golden 生成/需求理解/算子设计与开发/性能调优/精度调试。触发：PyPTO（Python 算子）开发或精度/性能调优。
-when_to_use: Use when developing a PyPTO (Python-based) operator — intent understanding, op design/dev, golden generation, perf-tune, precision debug. Curation over the official CANNBot PyPTO pack.
+description: "官方 CANNBot PyPTO 算子 skill 包（8 技能）的 Atlas 策展封装：API 探索/Golden 生成/需求理解/算子设计与开发/性能调优/精度调试。触发：PyPTO（Python 算子）开发或精度/性能调优。"
+when_to_use: "Use when developing a PyPTO (Python-based) operator — intent understanding, op design/dev, golden generation, perf-tune, precision debug. Curation over the official CANNBot PyPTO pack."
 allowed-tools: AscendSpecParser, AscendCodeGen, AscendGoldenTest, AscendBenchmarkRunner
 ---
 

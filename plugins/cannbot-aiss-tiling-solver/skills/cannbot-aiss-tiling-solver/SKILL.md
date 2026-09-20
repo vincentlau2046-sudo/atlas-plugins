@@ -1,7 +1,7 @@
 ---
 name: cannbot-aiss-tiling-solver
-description: 官方 AISS-TilingSolver skill 的 Atlas 策展封装：Ascend C 算子 Tiling 参数自动求解（MatMul/Vector），JSON 输入构造→求解→结果解读与故障排查。触发：不想手动设计 tiling、想自动求解最优 tiling 参数。
-when_to_use: Use when you want to AUTO-SOLVE tiling parameters for a MatMul/Vector Ascend C operator instead of hand-designing — the official AISS-TilingSolver skill, curated. Read as a heuristic pointer; validate against real run output.
+description: "官方 AISS-TilingSolver skill 的 Atlas 策展封装：Ascend C 算子 Tiling 参数自动求解（MatMul/Vector），JSON 输入构造→求解→结果解读与故障排查。触发：不想手动设计 tiling、想自动求解最优 tiling 参数。"
+when_to_use: "Use when you want to AUTO-SOLVE tiling parameters for a MatMul/Vector Ascend C operator instead of hand-designing — the official AISS-TilingSolver skill, curated. Read as a heuristic pointer; validate against real run output."
 allowed-tools: AscendTilingPlanner, AscendCodeGen
 ---
 

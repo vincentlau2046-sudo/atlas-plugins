@@ -1,7 +1,7 @@
 ---
 name: community-triton-op
-description: 社区 Triton 算子开发全流程 skill 包（11 技能）的 Atlas 策展封装：设计→codegen→开发→code review→文档→环境配置→精度评估→性能评估/优化→内存检测。触发：社区 Triton-Ascend 算子开发。
-when_to_use: Use for the community Triton-Ascend operator flow: design → codegen → dev → review → docs → env-config → precision-eval → performance → memory-check. Curation over the community/Op Triton pack.
+description: "社区 Triton 算子开发全流程 skill 包（11 技能）的 Atlas 策展封装：设计→codegen→开发→code review→文档→环境配置→精度评估→性能评估/优化→内存检测。触发：社区 Triton-Ascend 算子开发。"
+when_to_use: "Use for the community Triton-Ascend operator flow: design → codegen → dev → review → docs → env-config → precision-eval → performance → memory-check. Curation over the community/Op Triton pack."
 allowed-tools: AscendCodeGen, AscendCompilerBridge, AscendGoldenTest, AscendBenchmarkRunner
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: cannbot-triton-op-generator
-description: 官方 CANNBot Triton-Ascend 算子 skill 包（6 技能）的 Atlas 策展封装：任务提取/算法设计/代码生成/功能验证/性能优化/NPU 架构参考。触发：Triton-Ascend 算子代码生成或优化。
-when_to_use: Use when generating/optimizing a Triton-Ascend operator — task extraction, algorithm design, codegen, verification, perf optimization, NPU arch reference. Curation over the official CANNBot Triton pack.
+description: "官方 CANNBot Triton-Ascend 算子 skill 包（6 技能）的 Atlas 策展封装：任务提取/算法设计/代码生成/功能验证/性能优化/NPU 架构参考。触发：Triton-Ascend 算子代码生成或优化。"
+when_to_use: "Use when generating/optimizing a Triton-Ascend operator — task extraction, algorithm design, codegen, verification, perf optimization, NPU arch reference. Curation over the official CANNBot Triton pack."
 allowed-tools: AscendCodeGen, AscendCompilerBridge, AscendGoldenTest, AscendBenchmarkRunner
 ---
 

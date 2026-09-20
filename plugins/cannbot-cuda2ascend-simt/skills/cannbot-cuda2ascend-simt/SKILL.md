@@ -1,7 +1,7 @@
 ---
 name: cannbot-cuda2ascend-simt
-description: 官方 CANNBot CUDA→Ascend SIMT 迁移 skill 的 Atlas 策展封装：CUDA 到 Ascend C SIMT 编程模型的代码迁移（API 映射/语法规则/约束校验）。触发：把 CUDA kernel 迁移到 Ascend C SIMT。
-when_to_use: Use when migrating a CUDA kernel to the Ascend C SIMT programming model — API mapping, grammar rules, constraint checks. Curation over the official CANNBot cuda2ascend-simt skill.
+description: "官方 CANNBot CUDA→Ascend SIMT 迁移 skill 的 Atlas 策展封装：CUDA 到 Ascend C SIMT 编程模型的代码迁移（API 映射/语法规则/约束校验）。触发：把 CUDA kernel 迁移到 Ascend C SIMT。"
+when_to_use: "Use when migrating a CUDA kernel to the Ascend C SIMT programming model — API mapping, grammar rules, constraint checks. Curation over the official CANNBot cuda2ascend-simt skill."
 allowed-tools: AscendCodeGen, AscendCompilerBridge, AscendGoldenTest
 ---
 

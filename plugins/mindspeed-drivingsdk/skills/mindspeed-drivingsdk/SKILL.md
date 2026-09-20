@@ -1,7 +1,7 @@
 ---
 name: mindspeed-drivingsdk
-description: MindSpeed 自驾 SDK 模型迁移 skill 包（14 技能）的 Atlas 策展封装：模型代码迁移/NPU 训练/SSH 远程开发套件/MMLab 安装套件。触发：自驾（VLA）模型 NPU 适配迁移。
-when_to_use: Use for autonomous-driving (VLA) model NPU migration: model code migration, NPU training, SSH remote dev, MMLab install suites. Curation over the official MindSpeed drivingsdk pack.
+description: "MindSpeed 自驾 SDK 模型迁移 skill 包（14 技能）的 Atlas 策展封装：模型代码迁移/NPU 训练/SSH 远程开发套件/MMLab 安装套件。触发：自驾（VLA）模型 NPU 适配迁移。"
+when_to_use: "Use for autonomous-driving (VLA) model NPU migration: model code migration, NPU training, SSH remote dev, MMLab install suites. Curation over the official MindSpeed drivingsdk pack."
 allowed-tools: AscendModelConverter, AscendInferValidator
 ---
 
