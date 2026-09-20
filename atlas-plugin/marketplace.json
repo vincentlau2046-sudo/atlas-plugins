@@ -30,6 +30,12 @@
       "source": "./plugins/ascend-runtime-debug",
       "version": "0.1.0",
       "description": "Ascend 算子运行时故障调试（错误码分类 / plog 解析 / 卡死崩溃 triage / Kernel 二进制构建排查）"
+    },
+    {
+      "name": "ascend-perf-optimize",
+      "source": "./plugins/ascend-perf-optimize",
+      "version": "0.1.0",
+      "description": "Ascend 算子/模型性能优化（三层管线四步流程 + msprof 采集 + 10 类 bound 定位与定向优化）"
     }
   ]
 }
