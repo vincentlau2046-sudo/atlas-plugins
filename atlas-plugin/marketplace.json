@@ -8,11 +8,6 @@
   },
   "plugins": [
     {
-      "name": "example-plugin",
-      "source": "./plugins/example-plugin",
-      "description": "Example plugin scaffolded by atlas plugin marketplace scaffold"
-    },
-    {
       "name": "ascend-knowledge",
       "source": "./plugins/ascend-knowledge",
       "version": "0.1.0",
