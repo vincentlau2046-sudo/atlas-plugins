@@ -1,0 +1,8 @@
+{
+  "name": "common-deploy",
+  "version": "0.1.0",
+  "description": "昇腾 NPU 通用部署 skill 包（3 技能）的 Atlas 策展封装：OM 部署器/OM Pipeline 适配器/ONNX-ATC 推理 Pipeline。触发：模型部署、推理服务构建。",
+  "author": {
+    "name": "vincentlau2046"
+  }
+}

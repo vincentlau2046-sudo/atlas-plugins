@@ -126,6 +126,30 @@
       "source": "./plugins/cannbot-model-infer",
       "version": "0.1.0",
       "description": "官方 CANNBot NPU 模型推理优化 skill 包（11 技能）的 Atlas 策展封装：框架适配/并行策略/KVCache+FA/融合算子/图模式/精度运行时调试/多流/预取/SuperKernel。触发：LLM/大模型在 NPU 上的推理性能优化。"
+    },
+    {
+      "name": "vllm-ascend",
+      "source": "./plugins/vllm-ascend",
+      "version": "0.1.0",
+      "description": "vLLM-Ascend 推理部署与测试 skill 包（3 技能）的 Atlas 策展封装：vLLM Ascend 服务部署/FAQ 生成/测试失败分析。触发：vLLM 在昇腾 NPU 上的部署与问题排查。"
+    },
+    {
+      "name": "mindspeed-drivingsdk",
+      "source": "./plugins/mindspeed-drivingsdk",
+      "version": "0.1.0",
+      "description": "MindSpeed 自驾 SDK 模型迁移 skill 包（14 技能）的 Atlas 策展封装：模型代码迁移/NPU 训练/SSH 远程开发套件/MMLab 安装套件。触发：自驾（VLA）模型 NPU 适配迁移。"
+    },
+    {
+      "name": "common-deploy",
+      "source": "./plugins/common-deploy",
+      "version": "0.1.0",
+      "description": "昇腾 NPU 通用部署 skill 包（3 技能）的 Atlas 策展封装：OM 部署器/OM Pipeline 适配器/ONNX-ATC 推理 Pipeline。触发：模型部署、推理服务构建。"
+    },
+    {
+      "name": "common-migration",
+      "source": "./plugins/common-migration",
+      "version": "0.1.0",
+      "description": "昇腾 NPU 通用模型迁移 skill 包（5 技能）的 Atlas 策展封装：推理仓库智能问答/ATC 模型转换全流程/msverl 回归分诊/NPU 适配审查/PyTorch 模型 NPU 迁移。触发：模型迁移到 NPU、GPU→NPU 适配。"
     }
   ]
 }

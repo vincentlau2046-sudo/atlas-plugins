@@ -1,0 +1,8 @@
+{
+  "name": "vllm-ascend",
+  "version": "0.1.0",
+  "description": "vLLM-Ascend 推理部署与测试 skill 包（3 技能）的 Atlas 策展封装：vLLM Ascend 服务部署/FAQ 生成/测试失败分析。触发：vLLM 在昇腾 NPU 上的部署与问题排查。",
+  "author": {
+    "name": "vincentlau2046"
+  }
+}
