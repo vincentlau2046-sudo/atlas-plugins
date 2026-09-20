@@ -1,0 +1,8 @@
+{
+  "name": "ascend-runtime-debug",
+  "version": "0.1.0",
+  "description": "Ascend 算子运行时故障调试（错误码分类 / plog 解析 / 卡死崩溃 triage / Kernel 二进制构建排查）",
+  "author": {
+    "name": "vincentlau2046"
+  }
+}

@@ -24,6 +24,12 @@
       "source": "./plugins/ascend-precision-debug",
       "version": "0.1.0",
       "description": "Ascend 精度调试（模型级 msprobe 两层级 / 算子级 DumpTensor 7 步 / PyPTO 二分 + 误差标准 + 判定决策树）"
+    },
+    {
+      "name": "ascend-runtime-debug",
+      "source": "./plugins/ascend-runtime-debug",
+      "version": "0.1.0",
+      "description": "Ascend 算子运行时故障调试（错误码分类 / plog 解析 / 卡死崩溃 triage / Kernel 二进制构建排查）"
     }
   ]
 }
