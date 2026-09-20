@@ -18,6 +18,12 @@
       "source": "./plugins/ascend-tiling-design",
       "version": "0.1.0",
       "description": "Ascend C 算子 Tiling 设计（多核切分/UB切分/Buffer规划/分支覆盖四要素 + 9 算法分类策略 + AISS 指针）"
+    },
+    {
+      "name": "ascend-precision-debug",
+      "source": "./plugins/ascend-precision-debug",
+      "version": "0.1.0",
+      "description": "Ascend 精度调试（模型级 msprobe 两层级 / 算子级 DumpTensor 7 步 / PyPTO 二分 + 误差标准 + 判定决策树）"
     }
   ]
 }
