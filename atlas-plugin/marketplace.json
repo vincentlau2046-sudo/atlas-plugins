@@ -11,6 +11,12 @@
       "name": "example-plugin",
       "source": "./plugins/example-plugin",
       "description": "Example plugin scaffolded by atlas plugin marketplace scaffold"
+    },
+    {
+      "name": "ascend-knowledge",
+      "source": "./plugins/ascend-knowledge",
+      "version": "0.1.0",
+      "description": "Ascend NPU knowledge skills — tiling design methodology, precision/runtime debugging, performance optimization, test design, code review (goal+gates, tool-evidence driven)"
     }
   ]
 }
