@@ -42,6 +42,12 @@
       "source": "./plugins/ascend-test-design",
       "version": "0.1.0",
       "description": "Ascend C 算子测试设计（ST/UT/whitebox/golden 四类测试选择 + 设计流程 + 策略决策树）"
+    },
+    {
+      "name": "ascend-code-review",
+      "source": "./plugins/ascend-code-review",
+      "version": "0.1.0",
+      "description": "Ascend C 算子代码检视（假设检验驱动逐条检视 + 5 workflow 路由 + 红线问题 + 缺陷修复路由）"
     }
   ]
 }
