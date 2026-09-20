@@ -42,6 +42,66 @@
       "source": "./plugins/ascend-code-review",
       "version": "0.1.0",
       "description": "Ascend C 算子代码检视（假设检验驱动逐条检视 + 5 workflow 路由 + 红线问题 + 缺陷修复路由）"
+    },
+    {
+      "name": "cannbot-ops-direct-invoke",
+      "source": "./plugins/cannbot-ops-direct-invoke",
+      "version": "0.1.0",
+      "description": "官方 CANNBot 直调算子 skill 包（27 技能）的 Atlas 策展封装：API 检索/Tiling 设计/精度调试/性能采集/代码模板/SIMT 最佳实践，路由到 Atlas 算子开发工具链。触发：Ascend C 算子端到端开发（API 检索→tiling→codegen→编译→golden 验证）。"
+    },
+    {
+      "name": "cannbot-aiss-tiling-solver",
+      "source": "./plugins/cannbot-aiss-tiling-solver",
+      "version": "0.1.0",
+      "description": "官方 AISS-TilingSolver skill 的 Atlas 策展封装：Ascend C 算子 Tiling 参数自动求解（MatMul/Vector），JSON 输入构造→求解→结果解读与故障排查。触发：不想手动设计 tiling、想自动求解最优 tiling 参数。"
+    },
+    {
+      "name": "cannbot-catlass-op",
+      "source": "./plugins/cannbot-catlass-op",
+      "version": "0.1.0",
+      "description": "官方 CANNBot Catlass 算子 skill 包（3 技能）的 Atlas 策展封装：Catlass 算子设计/开发/性能调优。触发：用 Catlass 模板做 GEMM/卷积类算子开发或性能调优。"
+    },
+    {
+      "name": "cannbot-pypto-op-orchestrator",
+      "source": "./plugins/cannbot-pypto-op-orchestrator",
+      "version": "0.1.0",
+      "description": "官方 CANNBot PyPTO 算子 skill 包（8 技能）的 Atlas 策展封装：API 探索/Golden 生成/需求理解/算子设计与开发/性能调优/精度调试。触发：PyPTO（Python 算子）开发或精度/性能调优。"
+    },
+    {
+      "name": "cannbot-triton-op-generator",
+      "source": "./plugins/cannbot-triton-op-generator",
+      "version": "0.1.0",
+      "description": "官方 CANNBot Triton-Ascend 算子 skill 包（6 技能）的 Atlas 策展封装：任务提取/算法设计/代码生成/功能验证/性能优化/NPU 架构参考。触发：Triton-Ascend 算子代码生成或优化。"
+    },
+    {
+      "name": "cannbot-cuda2ascend-simt",
+      "source": "./plugins/cannbot-cuda2ascend-simt",
+      "version": "0.1.0",
+      "description": "官方 CANNBot CUDA→Ascend SIMT 迁移 skill 的 Atlas 策展封装：CUDA 到 Ascend C SIMT 编程模型的代码迁移（API 映射/语法规则/约束校验）。触发：把 CUDA kernel 迁移到 Ascend C SIMT。"
+    },
+    {
+      "name": "cannbot-tilelang-op",
+      "source": "./plugins/cannbot-tilelang-op",
+      "version": "0.1.0",
+      "description": "官方 CANNBot TileLang 算子 skill 包（9 技能）的 Atlas 策展封装：环境检查/子模块拉取/算子设计/开发/测试设计/API 最佳实践/编程模式指南/性能优化/代码审查。触发：TileLang 算子端到端开发。"
+    },
+    {
+      "name": "community-ascendc-op",
+      "source": "./plugins/community-ascendc-op",
+      "version": "0.1.0",
+      "description": "社区 Ascend C 算子开发全流程 skill 包（17 技能）的 Atlas 策展封装：项目初始化→设计→codegen→开发→编译调试→code review→精度调试/评估→性能评估/优化→测试用例→文档。触发：社区 Ascend C 算子端到端开发。"
+    },
+    {
+      "name": "community-catlass-op",
+      "source": "./plugins/community-catlass-op",
+      "version": "0.1.0",
+      "description": "社区 Catlass 算子开发全流程 skill 包（4 技能）的 Atlas 策展封装：设计→codegen→开发→性能优化。触发：社区 Catlass 模板算子开发。"
+    },
+    {
+      "name": "community-triton-op",
+      "source": "./plugins/community-triton-op",
+      "version": "0.1.0",
+      "description": "社区 Triton 算子开发全流程 skill 包（11 技能）的 Atlas 策展封装：设计→codegen→开发→code review→文档→环境配置→精度评估→性能评估/优化→内存检测。触发：社区 Triton-Ascend 算子开发。"
     }
   ]
 }

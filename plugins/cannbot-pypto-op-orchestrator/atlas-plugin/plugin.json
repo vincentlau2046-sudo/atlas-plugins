@@ -1,0 +1,8 @@
+{
+  "name": "cannbot-pypto-op-orchestrator",
+  "version": "0.1.0",
+  "description": "官方 CANNBot PyPTO 算子 skill 包（8 技能）的 Atlas 策展封装：API 探索/Golden 生成/需求理解/算子设计与开发/性能调优/精度调试。触发：PyPTO（Python 算子）开发或精度/性能调优。",
+  "author": {
+    "name": "vincentlau2046"
+  }
+}

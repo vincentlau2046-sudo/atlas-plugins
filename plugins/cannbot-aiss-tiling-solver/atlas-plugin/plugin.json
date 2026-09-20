@@ -1,0 +1,8 @@
+{
+  "name": "cannbot-aiss-tiling-solver",
+  "version": "0.1.0",
+  "description": "官方 AISS-TilingSolver skill 的 Atlas 策展封装：Ascend C 算子 Tiling 参数自动求解（MatMul/Vector），JSON 输入构造→求解→结果解读与故障排查。触发：不想手动设计 tiling、想自动求解最优 tiling 参数。",
+  "author": {
+    "name": "vincentlau2046"
+  }
+}

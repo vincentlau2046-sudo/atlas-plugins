@@ -1,0 +1,8 @@
+{
+  "name": "cannbot-ops-direct-invoke",
+  "version": "0.1.0",
+  "description": "官方 CANNBot 直调算子 skill 包（27 技能）的 Atlas 策展封装：API 检索/Tiling 设计/精度调试/性能采集/代码模板/SIMT 最佳实践，路由到 Atlas 算子开发工具链。触发：Ascend C 算子端到端开发（API 检索→tiling→codegen→编译→golden 验证）。",
+  "author": {
+    "name": "vincentlau2046"
+  }
+}

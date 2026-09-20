@@ -1,0 +1,8 @@
+{
+  "name": "cannbot-triton-op-generator",
+  "version": "0.1.0",
+  "description": "官方 CANNBot Triton-Ascend 算子 skill 包（6 技能）的 Atlas 策展封装：任务提取/算法设计/代码生成/功能验证/性能优化/NPU 架构参考。触发：Triton-Ascend 算子代码生成或优化。",
+  "author": {
+    "name": "vincentlau2046"
+  }
+}

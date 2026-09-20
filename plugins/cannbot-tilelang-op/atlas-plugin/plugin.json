@@ -1,0 +1,8 @@
+{
+  "name": "cannbot-tilelang-op",
+  "version": "0.1.0",
+  "description": "官方 CANNBot TileLang 算子 skill 包（9 技能）的 Atlas 策展封装：环境检查/子模块拉取/算子设计/开发/测试设计/API 最佳实践/编程模式指南/性能优化/代码审查。触发：TileLang 算子端到端开发。",
+  "author": {
+    "name": "vincentlau2046"
+  }
+}

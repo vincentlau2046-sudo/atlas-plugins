@@ -1,0 +1,8 @@
+{
+  "name": "cannbot-cuda2ascend-simt",
+  "version": "0.1.0",
+  "description": "官方 CANNBot CUDA→Ascend SIMT 迁移 skill 的 Atlas 策展封装：CUDA 到 Ascend C SIMT 编程模型的代码迁移（API 映射/语法规则/约束校验）。触发：把 CUDA kernel 迁移到 Ascend C SIMT。",
+  "author": {
+    "name": "vincentlau2046"
+  }
+}
