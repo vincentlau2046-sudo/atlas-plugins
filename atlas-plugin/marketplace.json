@@ -12,6 +12,12 @@
       "source": "./plugins/ascend-knowledge",
       "version": "0.1.0",
       "description": "Ascend NPU knowledge skills — tiling design methodology, precision/runtime debugging, performance optimization, test design, code review (goal+gates, tool-evidence driven)"
+    },
+    {
+      "name": "ascend-tiling-design",
+      "source": "./plugins/ascend-tiling-design",
+      "version": "0.1.0",
+      "description": "Ascend C 算子 Tiling 设计（多核切分/UB切分/Buffer规划/分支覆盖四要素 + 9 算法分类策略 + AISS 指针）"
     }
   ]
 }
